@@ -16,4 +16,4 @@ __Affiliation:__
 
 **Conclusions:** We were able to detect contamination in this case because SmBRE shows distinctive phenotypes. However, this would likely have been missed with phenotypically similar parasites. These results provide a cautionary tale about the importance of tracking the identity of parasite populations, but also showcase a simple approach to monitor changes within populations using molecular profiling of pooled population samples to characterize fixed single nucleotide polymorphisms. We also show that genetic drift results in continuous change even in the absence of contamination, causing parasites maintained in different labs (or sampled from the same lab at different times) to diverge.
 
-__KEY WORDS:__ Schistosoma mansoni, parasite, laboratory populations, laboratory strains, contamination, SmBRE, SmLE
+__KEY WORDS:__ Schistosoma mansoni, parasite, laboratory populations, contamination, SmBRE, SmLE, population genomics, pool-sequencing.
