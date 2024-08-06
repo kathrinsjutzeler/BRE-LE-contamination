@@ -1,11 +1,11 @@
 # Rapid phenotypic and genotypic change in a laboratory schistosome population
 
-__Authors:__ Kathrin S. JUTZELER1,2*, Roy N. PLATT3, Xue LI, Madison MORALES, Robbie DIAZ, Winka LE CLEC’H1, Frédéric D. CHEVALIER1, Timothy J.C. ANDERSON3*
+__Authors:__ Kathrin S. JUTZELER<sup>1,2*</sup>, Roy N. PLATT<sup>3</sup>, Xue LI<sup>3</sup>, Madison MORALES<sup>3</sup>, Robbie DIAZ<sup>3</sup>, Winka LE CLEC’H<sup>1</sup>, Frédéric D. CHEVALIER<sup>1</sup>, Timothy J.C. ANDERSON<sup>3*</sup>
 
 __Affiliation:__
-1 Host parasite Interaction program, Texas Biomedical Research Institute, P.O. Box 760549, 78245 San Antonio, Texas, USA.
-2 UT Health, Microbiology, Immunology & Molecular Genetics, San Antonio, TX 78229 
-3 Disease Intervention and Prevention program, Texas Biomedical Research Institute, P.O. Box 760549, 78245 San Antonio, Texas, USA.
+<sup>1</sup> Host parasite Interaction program, Texas Biomedical Research Institute, P.O. Box 760549, 78245 San Antonio, Texas, USA.
+<sup>2</sup> UT Health, Microbiology, Immunology & Molecular Genetics, San Antonio, TX 78229 
+<sup>3</sup> Disease Intervention and Prevention program, Texas Biomedical Research Institute, P.O. Box 760549, 78245 San Antonio, Texas, USA.
 
 ## ABSTRACT
 **Background:** Genomic analysis has revealed extensive contamination among laboratory-maintained microbes including malaria parasites, Mycobacterium tuberculosis and Salmonella spp. Here, we provide direct evidence for recent contamination of a laboratory schistosome parasite population, and we investigate its genomic consequences. The Brazilian Schistosoma mansoni population SmBRE has several distinctive phenotypes, showing poor infectivity, reduced sporocysts number, low levels of cercarial shedding and low virulence in the intermediate snail host, and low worm burden and low fecundity in the vertebrate rodent host. In 2021 we observed a rapid change in SmBRE parasite phenotypes, with a ~10x increase in cercarial production and ~4x increase in worm burden. 
