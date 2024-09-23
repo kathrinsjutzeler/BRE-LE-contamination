@@ -13,6 +13,7 @@ library(tidyverse)
 library("ggpubr")
 library(fields)
 library(locfit)
+library(patchwork)
 
 #--------------------#
 # Import the data ####
@@ -97,6 +98,8 @@ names(comp_time_order) <- levels(factor(mean_df$time))
 mean_AF <- ggplot(mean_df, aes(time, mean, group = CHROM)) +
   geom_point() +
   geom_line() +
+  geom_text(data =subset(mean_df, time == '021523'), aes(label = round(mean,2)),
+            nudge_x = 0, nudge_y = -0.2) +
   #geom_smooth(size =1, se = F) +
   ggh4x::facet_wrap2(CHROM~., labeller = labeller(CHROM = chrom.labs), axes = 'all',
                      remove_labels = 'all', ncol = 2) +
